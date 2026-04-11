@@ -9,7 +9,6 @@
 ### 📊 Coding Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spandey34&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
   <img src="https://leetcard.jacoblin.cool/Spandey_1844?theme=dark&font=Recursive" alt="LeetCode Stats" height="180" />
 </p>
 
@@ -30,5 +29,5 @@
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-pandey-1ab75829a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-pandey-1ab75829a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkumarpandey1844@gmail.com)
