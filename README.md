@@ -11,19 +11,15 @@
 <table border="0">
   <tr>
     <td width="50%" align="center">
-      <img src="https://leetcard.jacoblin.cool/Spandey_1844?theme=dark&font=Recursive" alt="LeetCode Stats" />
+      <img height="316" src="https://leetcard.jacoblin.cool/Spandey_1844?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/next_utkarsh_108/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="next_utkarsh_108 Leetcode Stats"/>
+</a>
     </td>
     <td width="50%" align="center">
       <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_wizz_&theme=dark" alt="Codeforces Stats" />
     </td>
   </tr>
 </table>
-
 <br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Spandey34&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 ---
 
