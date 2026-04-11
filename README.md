@@ -1,9 +1,8 @@
 # Hi, I'm Shubham Kumar Pandey 👋
 ### 🎓 3rd Year ECE Student at NIT Jamshedpur
 
-- 💻 Passionate about Full Stack Development & ML.
-- 🏆 Specialist at Codeforces | Knight at LeetCode.
-- 🛠️ Currently building: **Code-Arena** (Real-time 1v1 CP Platform).
+- 💻 Passionate about Full Stack Development & Competitve Programming.
+- 🏆 Expert at Codeforces | Guardian at LeetCode.
 
 ---
 
@@ -14,7 +13,7 @@
   <img src="https://leetcard.jacoblin.cool/Spandey_1844?theme=dark&font=Recursive" alt="LeetCode Stats" height="180" />
 </p>
 
-<p align="left">
+<p align="right">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_wizz_&theme=dark" alt="Codeforces Stats" height="180" />
 </p>
 
