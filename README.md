@@ -8,12 +8,21 @@
 
 ### 📊 Coding Stats
 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/Spandey_1844?theme=dark&font=Recursive" alt="LeetCode Stats" height="180" />
-</p>
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://leetcard.jacoblin.cool/Spandey_1844?theme=dark&font=Recursive" alt="LeetCode Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_wizz_&theme=dark" alt="Codeforces Stats" />
+    </td>
+  </tr>
+</table>
 
-<p align="right">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=_wizz_&theme=dark" alt="Codeforces Stats" height="180" />
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Spandey34&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
