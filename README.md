@@ -34,9 +34,12 @@
 <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white">
-<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">
+<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">
+<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-ffffff?logo=plotly&logoColor=black">
 </p>
 
 ---
