@@ -1,5 +1,5 @@
 # Hi, I'm Shubham Kumar Pandey 👋
-### 🎓 3rd Year ECE Student at NIT Jamshedpur
+### 🎓 4th Year ECE Student at NIT Jamshedpur
 
 - 💻 Passionate about Full Stack Development & Competitve Programming.
 - 🏆 Expert at Codeforces | Guardian at LeetCode.
