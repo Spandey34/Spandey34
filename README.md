@@ -47,3 +47,13 @@
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-pandey-1ab75829a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamkumarpandey1844@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Spandey34&label=Profile+views&color=00f7ff&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <i>---😌---</i>
+</p>
